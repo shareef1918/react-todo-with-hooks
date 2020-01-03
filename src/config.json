@@ -1,0 +1,20 @@
+{
+    "groupByOptions": [
+        {
+            "title":"Created On",
+            "value":"createdAt",
+            "allow_group_by": true
+        },
+        {
+            "title":"Pending On",
+            "value":"dueDate",
+            "allow_group_by": true
+        },
+        {
+            "title":"Priority",
+            "value":"priority",
+            "allow_group_by": true
+        }
+
+    ]
+}

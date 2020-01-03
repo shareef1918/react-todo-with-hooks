@@ -1,0 +1,15 @@
+.svg-inline--fa {
+    cursor: pointer;
+}
+.table-row {
+    cursor: pointer;
+}
+
+.opened {
+    background-color: #5C87FA !important;
+    color: #fff !important;
+}
+
+th {
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+#add_button {
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size:25px;
+    line-height: normal;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
